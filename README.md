@@ -10,8 +10,8 @@ A sleek and responsive **X (Twitter) UI clone** built with **HTML** and **Tailwi
 
 ## Technolgies used 🛠
 This project is built using:
->> **HTML** – For the page structure
->> **Tailwind CSS** – For modern, utility-first styling
->> **Google Fonts & Material Icons** – For enhanced UI elements
+- **HTML** – For the page structure
+- **Tailwind CSS** – For modern, utility-first styling
+- **Google Fonts & Material Icons** – For enhanced UI elements
 
 **Deployed link** - https://deluxe-x.netlify.app/
