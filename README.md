@@ -7,7 +7,7 @@ A sleek and responsive **X (Twitter) UI clone** built with **HTML** and **Tailwi
 - **Dark Mode** for a modern look  
 - **Interactive UI** with a clean and structured layout  
 - **Built with Tailwind CSS** for fast styling  
-
+ 
 ## Technolgies used 🛠
 This project is built using:
 - **HTML** – For the page structure
